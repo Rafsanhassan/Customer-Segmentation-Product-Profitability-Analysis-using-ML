@@ -1,5 +1,3 @@
-Here's a professional description for your GitHub repository:
-
 # Retail Customer Segmentation and Product Analysis
 
 ## Project Overview
